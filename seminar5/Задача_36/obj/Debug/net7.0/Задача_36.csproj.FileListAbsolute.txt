@@ -1,0 +1,15 @@
+E:\Sherzod\Scripts\seminars\seminar5\Задача_36\obj\Debug\net7.0\Задача_36.csproj.AssemblyReference.cache
+E:\Sherzod\Scripts\seminars\seminar5\Задача_36\obj\Debug\net7.0\Задача_36.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sherzod\Scripts\seminars\seminar5\Задача_36\obj\Debug\net7.0\Задача_36.AssemblyInfoInputs.cache
+E:\Sherzod\Scripts\seminars\seminar5\Задача_36\obj\Debug\net7.0\Задача_36.AssemblyInfo.cs
+E:\Sherzod\Scripts\seminars\seminar5\Задача_36\obj\Debug\net7.0\Задача_36.csproj.CoreCompileInputs.cache
+E:\Sherzod\Scripts\seminars\seminar5\Задача_36\bin\Debug\net7.0\Задача_36.exe
+E:\Sherzod\Scripts\seminars\seminar5\Задача_36\bin\Debug\net7.0\Задача_36.deps.json
+E:\Sherzod\Scripts\seminars\seminar5\Задача_36\bin\Debug\net7.0\Задача_36.runtimeconfig.json
+E:\Sherzod\Scripts\seminars\seminar5\Задача_36\bin\Debug\net7.0\Задача_36.dll
+E:\Sherzod\Scripts\seminars\seminar5\Задача_36\bin\Debug\net7.0\Задача_36.pdb
+E:\Sherzod\Scripts\seminars\seminar5\Задача_36\obj\Debug\net7.0\Задача_36.dll
+E:\Sherzod\Scripts\seminars\seminar5\Задача_36\obj\Debug\net7.0\refint\Задача_36.dll
+E:\Sherzod\Scripts\seminars\seminar5\Задача_36\obj\Debug\net7.0\Задача_36.pdb
+E:\Sherzod\Scripts\seminars\seminar5\Задача_36\obj\Debug\net7.0\Задача_36.genruntimeconfig.cache
+E:\Sherzod\Scripts\seminars\seminar5\Задача_36\obj\Debug\net7.0\ref\Задача_36.dll

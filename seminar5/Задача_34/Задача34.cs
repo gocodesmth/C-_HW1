@@ -16,13 +16,20 @@ int[] CreateRandomArray(int size, int minValue, int maxValue)
      return array;
 }
 
+void PrintArray(int[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{array[i]}, ");
+    }
+}
+
 void Result(int[] array)
 {
     int count = 0;
     for (int i = 0; i < array.Length; i++)
     {
-        Console.Write($"{array[i]}, ");
-        if (array[i] % 2 == 0) count++;
+       if (array[i] % 2 == 0) count++;
     }
     Console.WriteLine("Количество четных элементов: " + count);
 }

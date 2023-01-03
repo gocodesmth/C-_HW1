@@ -34,3 +34,5 @@ void MaxMinusMin(int max, int min)
 
 
 MaxMinusMin(maxNum, minNum);
+
+// P.S. смог исправить ошибку, но не смог изменить коммент под отправленной ссылкой

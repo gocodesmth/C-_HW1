@@ -3,3 +3,13 @@ E:\Sherzod\Scripts\seminars\seminar5\Задача_38\obj\Debug\net7.0\Задач
 E:\Sherzod\Scripts\seminars\seminar5\Задача_38\obj\Debug\net7.0\Задача_38.AssemblyInfoInputs.cache
 E:\Sherzod\Scripts\seminars\seminar5\Задача_38\obj\Debug\net7.0\Задача_38.AssemblyInfo.cs
 E:\Sherzod\Scripts\seminars\seminar5\Задача_38\obj\Debug\net7.0\Задача_38.csproj.CoreCompileInputs.cache
+E:\Sherzod\Scripts\seminars\seminar5\Задача_38\bin\Debug\net7.0\Задача_38.exe
+E:\Sherzod\Scripts\seminars\seminar5\Задача_38\bin\Debug\net7.0\Задача_38.deps.json
+E:\Sherzod\Scripts\seminars\seminar5\Задача_38\bin\Debug\net7.0\Задача_38.runtimeconfig.json
+E:\Sherzod\Scripts\seminars\seminar5\Задача_38\bin\Debug\net7.0\Задача_38.dll
+E:\Sherzod\Scripts\seminars\seminar5\Задача_38\bin\Debug\net7.0\Задача_38.pdb
+E:\Sherzod\Scripts\seminars\seminar5\Задача_38\obj\Debug\net7.0\Задача_38.dll
+E:\Sherzod\Scripts\seminars\seminar5\Задача_38\obj\Debug\net7.0\refint\Задача_38.dll
+E:\Sherzod\Scripts\seminars\seminar5\Задача_38\obj\Debug\net7.0\Задача_38.pdb
+E:\Sherzod\Scripts\seminars\seminar5\Задача_38\obj\Debug\net7.0\Задача_38.genruntimeconfig.cache
+E:\Sherzod\Scripts\seminars\seminar5\Задача_38\obj\Debug\net7.0\ref\Задача_38.dll

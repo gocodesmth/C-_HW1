@@ -2,7 +2,7 @@
 //Найдите разницу между максимальным и минимальным элементов массива.
 
 //[3 7 22 2 78] -> 76
-int[] array = {5, 13, 16, 84, 1};
+int[] array = {5, 10, 53, 4, 2};
 
 int maxElement(int[] array)
 {
@@ -24,6 +24,8 @@ int minElement(int[] array)
     return min;
 }
 
+int maxNum = maxElement(array);
+int minNum = minElement(array);
 void MaxMinusMin(int max, int min)
 {
     int result = max - min;
@@ -31,6 +33,4 @@ void MaxMinusMin(int max, int min)
 }
 
 
-maxElement(array);
-minElement(array);
-MaxMinusMin(maxElement, minElement);
+MaxMinusMin(maxNum, minNum);

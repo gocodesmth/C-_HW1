@@ -1,0 +1,5 @@
+E:\Sherzod\Scripts\seminars\seminar5\Задача_38\obj\Debug\net7.0\Задача_38.csproj.AssemblyReference.cache
+E:\Sherzod\Scripts\seminars\seminar5\Задача_38\obj\Debug\net7.0\Задача_38.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sherzod\Scripts\seminars\seminar5\Задача_38\obj\Debug\net7.0\Задача_38.AssemblyInfoInputs.cache
+E:\Sherzod\Scripts\seminars\seminar5\Задача_38\obj\Debug\net7.0\Задача_38.AssemblyInfo.cs
+E:\Sherzod\Scripts\seminars\seminar5\Задача_38\obj\Debug\net7.0\Задача_38.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+E:\$$$HHHHEEEERRRRZZZOOODDDD\Scripts\seminars\seminar5\Задача_34\bin\Debug\net7.0\Задача_34.exe
+E:\$$$HHHHEEEERRRRZZZOOODDDD\Scripts\seminars\seminar5\Задача_34\bin\Debug\net7.0\Задача_34.deps.json
+E:\$$$HHHHEEEERRRRZZZOOODDDD\Scripts\seminars\seminar5\Задача_34\bin\Debug\net7.0\Задача_34.runtimeconfig.json
+E:\$$$HHHHEEEERRRRZZZOOODDDD\Scripts\seminars\seminar5\Задача_34\bin\Debug\net7.0\Задача_34.dll
+E:\$$$HHHHEEEERRRRZZZOOODDDD\Scripts\seminars\seminar5\Задача_34\bin\Debug\net7.0\Задача_34.pdb
+E:\$$$HHHHEEEERRRRZZZOOODDDD\Scripts\seminars\seminar5\Задача_34\obj\Debug\net7.0\Задача_34.csproj.AssemblyReference.cache
+E:\$$$HHHHEEEERRRRZZZOOODDDD\Scripts\seminars\seminar5\Задача_34\obj\Debug\net7.0\Задача_34.GeneratedMSBuildEditorConfig.editorconfig
+E:\$$$HHHHEEEERRRRZZZOOODDDD\Scripts\seminars\seminar5\Задача_34\obj\Debug\net7.0\Задача_34.AssemblyInfoInputs.cache
+E:\$$$HHHHEEEERRRRZZZOOODDDD\Scripts\seminars\seminar5\Задача_34\obj\Debug\net7.0\Задача_34.AssemblyInfo.cs
+E:\$$$HHHHEEEERRRRZZZOOODDDD\Scripts\seminars\seminar5\Задача_34\obj\Debug\net7.0\Задача_34.csproj.CoreCompileInputs.cache
+E:\$$$HHHHEEEERRRRZZZOOODDDD\Scripts\seminars\seminar5\Задача_34\obj\Debug\net7.0\Задача_34.dll
+E:\$$$HHHHEEEERRRRZZZOOODDDD\Scripts\seminars\seminar5\Задача_34\obj\Debug\net7.0\refint\Задача_34.dll
+E:\$$$HHHHEEEERRRRZZZOOODDDD\Scripts\seminars\seminar5\Задача_34\obj\Debug\net7.0\Задача_34.pdb
+E:\$$$HHHHEEEERRRRZZZOOODDDD\Scripts\seminars\seminar5\Задача_34\obj\Debug\net7.0\Задача_34.genruntimeconfig.cache
+E:\$$$HHHHEEEERRRRZZZOOODDDD\Scripts\seminars\seminar5\Задача_34\obj\Debug\net7.0\ref\Задача_34.dll
